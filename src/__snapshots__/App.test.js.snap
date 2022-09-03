@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  
+  <div
+    className="card"
+  >
+    <div
+      className="card"
+      style={
+        Object {
+          "width": "40rem",
+        }
+      }
+    >
+      <img
+        className="card-img-top"
+        src="RYU.jpg"
+      />
+      <div
+        className="card-body"
+      >
+        <div
+          className="card-title h5"
+        >
+          Street Fighter
+        </div>
+        <p
+          className="card-text"
+        >
+          "The road to becoming a true martial artist is still long... This is only training!!" -RYU
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;
